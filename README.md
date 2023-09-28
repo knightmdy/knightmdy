@@ -1,8 +1,4 @@
 ### 自我介绍
-
-<div><img align="right" alt="GIF" src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" width="300" height="100%" /></div>
-<div><img align="right" alt="GIF" src="https://z4a.net/images/2023/08/14/push.webp" width="300" height="100%" /></div>
-
 - 大家好，我是K-M，来自河北雄安
 - 目前是一名计算机在读本科生
 - 对数据结构与算法、前端、js、人工智能感兴趣
