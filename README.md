@@ -3,7 +3,7 @@
 - 目前是一名计算机在读本科生
 - 对数据结构与算法、前端、js、人工智能感兴趣
 - 欢迎光临我的Github 🍧
-- <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username={knightmdy}&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username={knightmdy}&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 ### 社交主页
 - <a href="https://knightmdy.github.io"><img height="22" width="22" src="https://knightmdy.github.io"></a>：个人网站，建设中
 ### 技术栈
