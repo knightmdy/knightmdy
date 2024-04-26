@@ -17,5 +17,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-%23579050?style=flat&logo=node.js&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
+-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={knightmdy}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 ### 开源项目
 -鼠鼠我鸭,现在还在学习呢
