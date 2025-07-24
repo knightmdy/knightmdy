@@ -1,22 +1,103 @@
-### 自我介绍
-- 大家好，我是K-M，来自河北雄安
-- 目前是一名计算机在读本科生
-- 对数据结构与算法、前端、js、人工智能感兴趣
-- 欢迎光临我的Github 🍧
-### 社交主页
-- <a href="https://knightmdy.github.io"><img height="22" width="22" src="https://knightmdy.github.io"></a>：个人网站，建设中
-### 技术栈
-![C#](https://img.shields.io/badge/-C%20Sharp-%23239120?style=flat&logo=C%20Sharp)
-![C语言](https://img.shields.io/badge/-C%E8%AF%AD%E8%A8%80-%2313c9ae?style=flat&logo=C&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-%23972fcd?style=flat&logo=OPENJDK)
-![Linux](https://img.shields.io/badge/-Linux-%23fcc624?style=flat&logo=Linux&logoColor=242424)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
-![Hexo](https://img.shields.io/badge/-Hexo-%230e83cd?style=flat&logo=Hexo&logoColor=ffffff)\
-![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23ECD83E&color=%23ECD83E)
-![Node.js](https://img.shields.io/badge/-Node.js-%23579050?style=flat&logo=node.js&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
--<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={knightmdy}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-### 开源项目
--鼠鼠我鸭,现在还在学习呢
+# 👋 Hello, I'm K-M!
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Frontend+Developer;AI+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
+
+## 🙋‍♂️ 关于我
+
+- 🏠 来自河北雄安，目前是一名计算机科学在读本科生
+- 💻 热衷于数据结构与算法、前端开发、JavaScript 和人工智能
+- 🌱 正在学习 Vue.js、React 和机器学习
+- 🎯 目标：成为一名全栈开发工程师
+- 📫 欢迎访问我的 GitHub，一起交流学习！
+
+## 🌐 社交主页
+
+<div align="center">
+  
+[![个人网站](https://img.shields.io/badge/🌐_个人网站-建设中-blue?style=for-the-badge)](https://knightmdy.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-knightmdy-181717?style=for-the-badge&logo=github)](https://github.com/knightmdy)
+
+</div>
+
+## 🛠️ 技术栈
+
+### 编程语言
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 前端技术
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+### 后端 & 工具
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+## 📊 GitHub 统计
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=knightmdy&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knightmdy&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=knightmdy&theme=radical&hide_border=true)
+
+</div>
+
+## 🚀 开源项目
+
+### 🎯 主要项目
+- 🔄 **正在开发中...** - 一个前端dashboard
+- 🌐 **GitHub项目** - 目前的crud项目与前端项目
+
+### 💡 学习中的技术
+- Vue.js 全家桶 (Vue Router, Vuex/Pinia)
+- React 生态系统
+- TypeScript
+- 前端性能优化
+- 机器学习基础
+
+
+## 📈 代码时间统计
+
+<div align="center">
+  
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=knightmdy&theme=radical&hide_border=true&layout=compact&langs_count=10)
+
+</div>
+
+## 🎯 2025 年目标
+
+- [ ] 完成 3 个完整的前端项目
+- [ ] 深入学习 Vue.js 和 React
+- [ ] 掌握 TypeScript
+- [ ] 贡献开源项目
+- [ ] 建立技术博客
+- [ ] 学习机器学习基础
+
+## 📫 联系我
+
+<div align="center">
+  
+如果你对我的项目感兴趣，或者想要一起学习交流，欢迎联系我！
+
+**让我们一起在代码的世界里探索无限可能！** 🚀
+
+</div>
+
+---
+
+<div align="center">
+  
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=knightmdy.knightmdy)
+[![GitHub followers](https://img.shields.io/github/followers/knightmdy?style=social)](https://github.com/knightmdy)
+
+⭐️ From [knightmdy](https://github.com/knightmdy)
+
+</div>
