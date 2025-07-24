@@ -67,8 +67,8 @@
 ## 📈 代码时间统计
 
 <div align="center">
-  
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=knightmdy&theme=radical&hide_border=true&layout=compact&langs_count=10)
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=knightmdy&theme=radical&hide_border=true&layout=compact&langs_count=8)
 
 </div>
 
