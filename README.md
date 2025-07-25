@@ -16,7 +16,6 @@
 
 <div align="center">
   
-[![个人网站](https://img.shields.io/badge/🌐_个人网站-建设中-blue?style=for-the-badge)](https://knightmdy.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-knightmdy-181717?style=for-the-badge&logo=github)](https://github.com/knightmdy)
 
 </div>
